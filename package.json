@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "create-folders": "./createFolders.js"
+    "create-folders": "./dist/createFolders.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
